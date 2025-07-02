@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Medusa With Supabase
 
-=======
 # Medusa E-Commerce Project
 
 A full-featured e-commerce solution built with [Medusa](https://medusajs.com/), an open-source headless commerce engine, and a Next.js storefront.
