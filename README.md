@@ -1,2 +1,1 @@
-# Medusa With Supabase
-
+# medusa
