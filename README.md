@@ -179,4 +179,4 @@ The Next.js storefront can be deployed to Vercel, Netlify, or any other static s
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
->>>>>>> 8529a25 (chore: update README with project details, setup instructions, and features)
+
